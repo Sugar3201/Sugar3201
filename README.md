@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sugar3201
-- 👀 I’m interested in web developement and ML.
-- 🌱 I’m currently learning CSE.
-- 💞️ I’m looking to collaborate on ML projects
+- 👀 I’m enjoy web developement, cometetive programing and recently exploring Machine Learning and Data Science.
+- 🌱 I’m currently learning Kotlin.
+- 💞️ I’m looking to collaborate on Machine Learning and Data Science projects
 - 📫 How to reach me abhishekdas3201@gmail.com
 
 <!---
